@@ -1,6 +1,6 @@
 # Mojave-Dynamic-Wallpaper-For-Linux
-### 1.clone the project and Extract file 
-### 2.Edit mojave.xml file and change all username of all line with find&replace to your username for example :
-#####  /home/username/Pictures/Wallpapers/mojave_dynamic_15.jpeg 
-##### >> /home/hossein/Pictures/Wallpapers/mojave_dynamic_15.jpeg
+## clone the project and Extract file
+##  Fix the path to the background images
+## Use gnome-tweaks tool to select this XML as wallpaper
+
 
