@@ -1,0 +1,1 @@
+# Mojave-Dynamic-Wallpaper-For-Linux
